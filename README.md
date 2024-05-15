@@ -23,7 +23,8 @@ You can bootstrap your application using any bundler you like, but please provid
    ![Screenshot 2024-05-15 at 12 15 01](https://github.com/ProteinsWebTeam/frontend-technical-test/assets/46671268/9e3d750e-5cd8-4f1e-a800-ba0eea43855c)
 Your task is to generate a similar chart, using any library or style of your liking that aggregates all the 374 InterPro repeat entries.
 2. Create a data table that displays the information of all the repeats following this example:
-<img width="648" alt="Screenshot 2024-05-15 at 13 46 43" src="https://github.com/ProteinsWebTeam/frontend-technical-test/assets/46671268/6528f6ba-b50f-4904-b4b8-7417fa52ebef">
+<img width="651" alt="Screenshot 2024-05-15 at 13 54 20" src="https://github.com/ProteinsWebTeam/frontend-technical-test/assets/46671268/2c13b6d3-2233-4cda-995d-2b9e92dad744">
+
 3. When the user clicks the `+`, expand the row and display the integrated signatures and the most recent literature reference associated with the entry. For example:
 <img width="651" alt="Screenshot 2024-05-15 at 13 47 10" src="https://github.com/ProteinsWebTeam/frontend-technical-test/assets/46671268/85710b65-5497-4282-9ba9-85531b9f7c4d">
 4. Using GitHub actions, create a CD script that installs your app on GitHub pages.
