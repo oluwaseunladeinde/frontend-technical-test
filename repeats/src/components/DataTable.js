@@ -61,8 +61,8 @@ const DataTable = ({ columns, data }) => {
                                     ))}
                                 </tr>
                                 {row.id === expandedRow && (
-                                    <tr className='transition-all ease-in-out duration-200 '>
-                                        <td colSpan={columns.length + 1}>
+                                    <tr className='transition ease-out duration-500 '>
+                                        <td className='' colSpan={columns.length + 1}>
                                             <Detail />
                                         </td>
                                     </tr>

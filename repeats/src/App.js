@@ -77,7 +77,7 @@ function App() {
           <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Data Table</p>
           <p className="mt-4 text-lg leading-8 text-gray-600">Create a data table that displays information for all the repeat entries</p>
           <div class="mt-2 text-base leading-7 text-gray-600">
-            <DataTable columns={columns} data={data} />
+            <DataTable columns={columns} data={data} className="shadow-lg rounded-lg" />
           </div>
 
         </div>
